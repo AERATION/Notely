@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Notely
+
+  Created by Ivan Kovalev on 19.09.2023.
+  
+*/
+
+"auth" = "Авторизация";
+"registration" = "Регистрация";
+
+"auth-label" = "После авторизации вы сможете синхронизировать заметки, а также получите возможность делать свои заметки публичными.";
+"login" = "Логин";
+"password" = "Пароль";
+"wrong-login" = "";
+"wrong-password" = "";
+"login-placeholder" = "Введите логин";
+"password-placeholder" = "Введите пароль";
+"sign-in-button" = "Войти";
+
+"registration-label" = "Зарегистрировавшись вы сможете синхронизировать заметки, а также получите возможность делать свои заметки публичными.";
+"email" = "Почта";
+"first-name" = "Имя";
+"last-name" = "Фамилия";
+"about-me" = "О себе";
+"email-placeholder" = "Ваша почта";
+"first-name-placeholder" = "Ваше имя";
+"last-name-placeholder" = "Ваша фамилия";
+"sign-up-button" = "Зарегистироваться";
+
+"notely" = "Notely";
+"my-notes" = "Мои";
+"public-notes" = "Публичные";
+"empty-notes-label" = "У вас еще нет заметок";
+"empty-notes-sublabel" = "Здесь будут отображаться заметки, котовые Вы создадите";
+"favourites" = "Избранное";
+
+"choose-alert-action" = "Выберите действие";
+"add-folder" = "Добавить папку";
+"sort-alphabetically" = "Сортировать по алфавиту";
+"alert-cancel" = "Отмена";
+"add" = "Добавить";
+"folder-name-placeholder" = "Название папки";
+
+"note-label-placeholder" = "Заголовок";
+"note-text-placeholder" = "Введите текст...";
+
+"profile-label" = "Профиль";
+"save-button" = "Сохранить";
+
+"back-button-note" = "К списку";
+"back-button-folder" = "Все папки";
+"back-button" = "Назад";
